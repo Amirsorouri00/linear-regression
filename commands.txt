@@ -1,0 +1,11 @@
+1- python -m venv env_regression
+
+2- on windows:
+./env_regression/scripts/activate
+
+2- on linux:
+source ./env_regression/bin/activate
+
+3- pip install -r requirements.txt
+
+4- python ./Code.py
